@@ -1,4 +1,4 @@
-# 🍷 Vinoteca API - AppVinos
+# 🍷 Vinoteca API - Rincon Del Vino
 
 API RESTful para la gestión de **Vinos** y **Ofertas**, desarrollada en **Spring Boot + MySQL**.  
 Incluye operaciones CRUD para vinos y ofertas, manejo de relaciones y filtros de ofertas activas.
