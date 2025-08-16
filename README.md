@@ -37,7 +37,7 @@ src/main/java/com/Vinoteca/AppVinos
 | PUT    | `/api/vinos/{id}` | Actualiza un vino existente |
 | DELETE | `/api/vinos/{id}` | Elimina un vino |
 
-###  Bodegas
+###  Ofertas
 | Método | Endpoint                       | Descripción                           |
 | ------ | ------------------------------ | ------------------------------------- |
 | GET    | `/api/ofertas/ofertas/activas` | Lista las ofertas activas según fecha |
