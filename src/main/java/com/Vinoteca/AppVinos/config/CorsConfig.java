@@ -16,7 +16,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**") // todas las rutas de tu API
-                        .allowedOrigins("https://front-vinos.vercel.app/") // frontend desplegado en Vercel
+                        .allowedOrigins("https://front-vinos.vercel.app") // frontend desplegado en Vercel
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
                         .allowCredentials(true);
