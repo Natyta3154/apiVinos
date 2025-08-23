@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import com.Vinoteca.AppVinos.service.EmailService;
 
 @RestController
-@RequestMapping("api/contacto")
+@RequestMapping("/api/contacto")
 @CrossOrigin(origins = "http://localhost:9002")
 public class ContactController {
 
